@@ -1,7 +1,7 @@
 # ICST-SENSORS_Super-Resolution
 Super-Resolution method based on Artificial Neural Network and kernel based neighbourhood pixel information, developed to increase spatial resolution of multispectral images.
 
-This work developed at the [Vizlab | X-Reality and GeoInformatics Lab](http://vizlab.unisinos.br/) uses a mixed structure of a sequential neural network with the gathering of spatial information in pixel kernels of the input images.
+This work developed at the [Vizlab | X-Reality and GeoInformatics Lab](http://vizlab.unisinos.br/) by [Ademir Marques Junior](https://www.researchgate.net/profile/Ademir_Junior). It uses a mixed structure of a sequential neural network with the gathering of spatial information in pixel kernels of the input images.
 
 For a more in-depth understanding of the method, please consider the following works:
 
@@ -11,10 +11,8 @@ For a more in-depth understanding of the method, please consider the following w
 # Table of Contents
 
 - [Requirements](#tRequirements)
-- [Table of Contents](#table-of-contents)
 - [Installation](#installation)
 - [Usage](#usage)
-- [Credits](#credits)
 - [License](#license)
 
 
@@ -83,27 +81,9 @@ To generate the higher resolution image provide to the function bellow a high re
 Use Numpy reshape to format the output image to the same shape as the High resolution RGB image.
 
 
-## Credits
-
-This work is credited to the [Vizlab | X-Reality and GeoInformatics Lab](http://vizlab.unisinos.br/) and the following authors and developers:
-
-Author Name  | Profile
-------------- | -------------
-Ademir Marques Junior | https://www.researchgate.net/profile/Ademir_Junior
-Eniuce Menezes de Souza | https://www.researchgate.net/profile/Eniuce_Souza
-Mariane Müller | https://www.researchgate.net/profile/Marianne_Muller
-Diego Brum | https://www.researchgate.net/profile/Diego_Brum
-Daniel Zanotta | https://www.researchgate.net/profile/Daniel_Zanotta
-Rafael Kenji Horota | https://www.researchgate.net/profile/Rafael_Horota
-Lucas Kupssinskü | https://www.researchgate.net/profile/Lucas_Kupssinskue
-Pedro Rossa | https://www.researchgate.net/profile/Pedro_Rossa
-Maurício Roberto Veronez | https://www.researchgate.net/profile/Mauricio_Veronez
-Luiz Gonzaga Junior | https://www.researchgate.net/profile/Luiz_Gonzaga_da_Silveira_Jr
-Caroline Lessio Cazarin | https://www.researchgate.net/profile/Caroline_Cazarin
-
 ## Licence
 
-The license requires reviewing.
+GNU GP3. See LICENSE for full details. 
 
 ## How to cite
 
