@@ -5,9 +5,12 @@ This method developed at [Vizlab | X-Reality and GeoInformatics Lab](http://vizl
 
 <img src="https://ieeexplore.ieee.org/mediastore_new/IEEE/content/media/9039856/9047668/9047670/1570568701-fig-3-source-large.gif" width="500" alt="Neural network learning process">
 
-For a more in-depth understanding of the method, please consider the following works. To cite each of them please consult the [How to cite](#how-to-cite) section:
+## Published Articles
+
+For a more in-depth understanding of the method, please consider the published articles below that employed the Super-resolution methodology developed. To cite each of them please consult the [How to cite](#how-to-cite) section.
 
 ---
+
 **Improving spatial resolution of LANDSAT spectral bands from a single RGB image using artificial neural network]**
 
 [Ademir Marques Junior<sup>1</sup>](https://www.researchgate.net/profile/Ademir_Junior), [Pedro Rossa<sup>1</sup>](https://www.researchgate.net/profile/Pedro_Rossa), [Rafael Kenji Horota<sup>1</sup>](https://www.researchgate.net/profile/Rafael_Horota), [Diego Brum<sup>1</sup>](https://www.researchgate.net/profile/Diego_Brum), [Eniuce Menezes de Souza<sup>2</sup>](https://www.researchgate.net/profile/Eniuce_Souza), [Alysson Soares Aires<sup>1</sup>](), [Lucas Kupssinskü<sup>1</sup>](https://www.researchgate.net/profile/Lucas_Kupssinskue), , [Maurício Roberto Veronez](https://www.researchgate.net/profile/Mauricio_Veronez)	
@@ -18,8 +21,6 @@ For a more in-depth understanding of the method, please consider the following w
 [CENPES-Petrobras<sup>3</sup>](https://petrobras.com.br/en/our-activities/technology-innovation/)
 
 To appear in: [2019 13th International Conference on Sensing Technology (ICST)](https://ieeexplore.ieee.org/document/9047670)
-
----
 
 **Improving spatial resolution of multispectral rock outcrop images using RGB data and artificial neural networks**
 
