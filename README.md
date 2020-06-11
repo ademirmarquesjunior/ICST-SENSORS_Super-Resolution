@@ -1,7 +1,7 @@
 # ICST-SENSORS_Super-Resolution
 Super-Resolution method based on Artificial Neural Network and kernel based neighbourhood pixel information, developed to increase spatial resolution of multispectral images.
 
-This method developed at [Vizlab | X-Reality and GeoInformatics Lab](http://vizlab.unisinos.br/), uses a mixed structure of a sequential neural network with the gathering of spatial information in pixel kernels of the input images.
+This method developed at [Vizlab | X-Reality and GeoInformatics Lab](http://vizlab.unisinos.br/), uses a mixed structure of a sequential neural network with the gathering of spatial information in pixel kernels of the input images. It can be used for spectral recovering from RGB images and for spatial upscaling using higher resolution RGB images. In the tests carried in this project we validate the method upscaling near-infrared (NIR) and short-wave infrared (SWIR) images from Landsat to a higher spatial resolution, training the network with both images with the same size, and generating NIR and SWIR bands providing to the trained network the RGB image with higher spatial resolution. Tests with the multispectral indoor images [CAVE](https://www.cs.columbia.edu/CAVE/databases/multispectral/) were also carried for comparison with previous works.
 
 <img src="https://ieeexplore.ieee.org/mediastore_new/IEEE/content/media/9039856/9047668/9047670/1570568701-fig-3-source-large.gif" width="500" alt="Neural network learning process">
 
@@ -19,9 +19,6 @@ For a more in-depth understanding of the method, please consider the following w
 
 To appear in: [2019 13th International Conference on Sensing Technology (ICST)](https://ieeexplore.ieee.org/document/9047670)
 
-**Abstract:**  Spectral information provided by multispectral and hyperspectral sensors has a great impact on remote sensing studies. These sensors are embedded in aircrafts and satellites like the Landsat, which has more data freely available but lack the spatial resolution that suborbital sensors have. To increase the spatial resolution, a series of techniques have been developed like pansharpenning data fusion and more advanced convolutional neural networks for super-resolution, however, the later requires large datasets. To overcome this requirement, this work aims to increase the spatial resolution of Landsat spectral bands using artificial neural networks that uses pixel kernels of a single high-resolution image from Google Earth. Using this method, the high-resolution spectral bands were generated with pixel size of 1m in contrast to the 15m of pansharpenned Landsat bands. The evaluate the predicted spectral bands the validation measures Universal Quality Index (UQI) and Spectral Angle Mapper (SAM) were used, showing values of 0.98 and 0.16 respectively, presenting good results.
-
-
 ---
 
 **Improving spatial resolution of multispectral rock outcrop images using RGB data and artificial neural networks**
@@ -34,8 +31,6 @@ Authors: [Ademir Marques Junior<sup>1</sup>](https://www.researchgate.net/profil
 [CENPES-Petrobras<sup>3</sup>](https://petrobras.com.br/en/our-activities/technology-innovation/)
 
 To appear in: Not yet published
-
-**Abstract:** Spectral information provided by multispectral and hyperspectral sensors has a great impact on remote sensing studies, easing the identification of carbonate outcrops that contribute to a better understanding of petroleum reservoirs. Sensors aboard satellites like Landsat series, which have data freely available usually lack the spatial resolution that suborbital sensors have. Many techniques have been developed to improve spatial resolution through data fusion. However, most of them have serious limitations regarding application and scale. Recently Super-Resolution (SR) convolution neural networks have been tested with encouraging results. However, they require large datasets, more time and computational power for training. To overcome these limitations, this work aims to increase the spatial resolution of multispectral bands from the Landsat satellite database using a modified artificial neural network that uses pixel kernels of a single spatial high-resolution RGB image from Google Earth as input. The methodology was validated with a common dataset of indoor images as well as a specific area of Landsat 8. Different downsized scale inputs were used for training where the validation used the ground truth of the original size images, obtaining comparable results to the recent works. With the method validated, we generated high spatial resolution spectral bands based on RGB images from Google Earth on a carbonated outcrop area, which was then properly classified according to the soil spectral responses making use of the advantage of a higher spatial resolution dataset.
 
 ---
 
