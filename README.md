@@ -1,4 +1,4 @@
-# ICST-SENSORS_Super-Resolution
+# Kernel_ANN_Super-Resolution
 Super-Resolution method based on Artificial Neural Network and kernel based neighbourhood pixel information, developed to increase spatial resolution of multispectral images.
 
 This method developed at [Vizlab | X-Reality and GeoInformatics Lab](http://vizlab.unisinos.br/), uses a mixed structure of a sequential neural network with the gathering of spatial information in pixel kernels of the input images. It can be used for spectral recovering from RGB images and for spatial upscaling using higher resolution RGB images. In the tests carried in this project we validate the method upscaling near-infrared (NIR) and short-wave infrared (SWIR) images from Landsat to a higher spatial resolution, training the network with both images with the same size, and generating NIR and SWIR bands providing to the trained network the RGB image with higher spatial resolution. Tests with the multispectral indoor images [CAVE](https://www.cs.columbia.edu/CAVE/databases/multispectral/) were also carried for comparison with previous works.
