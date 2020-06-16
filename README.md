@@ -100,25 +100,13 @@ Use Numpy reshape to format the output image to the same shape as the High resol
 
 
 ## Credits	
-This work is credited to the [Vizlab | X-Reality and GeoInformatics Lab](http://vizlab.unisinos.br/) and the following authors and developers:	
-Author Name  | Profile	
-------------- | -------------	
-Ademir Marques Junior | https://www.researchgate.net/profile/Ademir_Junior	
-Eniuce Menezes de Souza | https://www.researchgate.net/profile/Eniuce_Souza	
-Mariane Müller | https://www.researchgate.net/profile/Marianne_Muller	
-Diego Brum | https://www.researchgate.net/profile/Diego_Brum	
-Daniel Zanotta | https://www.researchgate.net/profile/Daniel_Zanotta	
-Rafael Kenji Horota | https://www.researchgate.net/profile/Rafael_Horota	
-Lucas Kupssinskü | https://www.researchgate.net/profile/Lucas_Kupssinskue	
-Pedro Rossa | https://www.researchgate.net/profile/Pedro_Rossa	
-Maurício Roberto Veronez | https://www.researchgate.net/profile/Mauricio_Veronez	
-Luiz Gonzaga Junior | https://www.researchgate.net/profile/Luiz_Gonzaga_da_Silveira_Jr	
-Caroline Lessio Cazarin | https://www.researchgate.net/profile/Caroline_Cazarin
+This work is credited to the [Vizlab | X-Reality and GeoInformatics Lab](http://vizlab.unisinos.br/) and the following authors and developers:	[Ademir Marques Junior](https://www.researchgate.net/profile/Ademir_Junior), [Eniuce Menezes de Souza](https://www.researchgate.net/profile/Eniuce_Souza), [Mariane Müller](https://www.researchgate.net/profile/Marianne_Muller), [Diego Brum](https://www.researchgate.net/profile/Diego_Brum), [Daniel Zanotta](https://www.researchgate.net/profile/Daniel_Zanotta), [Rafael Kenji Horota](https://www.researchgate.net/profile/Rafael_Horota), [Lucas Kupssinskü](https://www.researchgate.net/profile/Lucas_Kupssinskue), [Pedro Rossa](https://www.researchgate.net/profile/Pedro_Rossa), 
+[Maurício Roberto Veronez](https://www.researchgate.net/profile/Mauricio_Veronez), [Luiz Gonzaga Junior](https://www.researchgate.net/profile/Luiz_Gonzaga_da_Silveira_Jr), [Caroline Lessio Cazarin](https://www.researchgate.net/profile/Caroline_Cazarin)
 
 
 ## License
 
-MIT Licence (https://mit-license.org/)
+    MIT Licence (https://mit-license.org/)
 
 ## How to cite
 
