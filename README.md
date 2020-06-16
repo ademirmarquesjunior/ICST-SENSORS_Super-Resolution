@@ -119,7 +119,7 @@ Caroline Lessio Cazarin | https://www.researchgate.net/profile/Caroline_Cazarin
 
 ## License
 
-GNU GP3. See LICENSE for full details. 
+MIT Licence (https://mit-license.org/)
 
 ## How to cite
 
