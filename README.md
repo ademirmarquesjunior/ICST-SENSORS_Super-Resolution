@@ -35,9 +35,9 @@ To appear in: Not yet published
 - [How to cite](#how-to-cite)
 
 
-## Requirements
+## Installation
 
-This Python script requires a Python 3 environment and the following installed libraries as seen in the file requirements.txt
+This Python script requires a Python 3 environment and the following installed libraries as seen in the file requirements.txt.
 
 - [keras](https://keras.io/)
 - [Tensorflow](https://www.tensorflow.org/)
@@ -48,7 +48,6 @@ This Python script requires a Python 3 environment and the following installed l
 - [OpenCV](https://pypi.org/project/opencv-python/)
 - [Pillow]()
 
-## Installation
 
 For installation download and unpack the content of this repository in a folder acessible by your working Python 3 environment.
 
