@@ -1,6 +1,6 @@
 # Kernel_ANN_Super-Resolution
 
-**Improving spatial resolution of multispectral rock outcrop images using RGB data and artificial neural networks**  
+**[Paper]Improving spatial resolution of multispectral rock outcrop images using RGB data and artificial neural networks**  
 Authors: [Ademir Marques Junior<sup>1</sup>](https://www.researchgate.net/profile/Ademir_Junior), [Eniuce Menezes de Souza<sup>2</sup>](https://www.researchgate.net/profile/Eniuce_Souza), [Mariane Müller<sup>1</sup>](https://www.researchgate.net/profile/Marianne_Muller), [Diego Brum<sup>1</sup>](https://www.researchgate.net/profile/Diego_Brum), [Daniel Zanotta<sup>1</sup>](https://www.researchgate.net/profile/Daniel_Zanotta), [Rafael Kenji Horota<sup>1</sup>](https://www.researchgate.net/profile/Rafael_Horota), [Lucas Kupssinskü<sup>1</sup>](https://www.researchgate.net/profile/Lucas_Kupssinskue), [Maurício Roberto Veronez<sup>1</sup>](https://www.researchgate.net/profile/Mauricio_Veronez)	
 [Luiz Gonzaga Junior<sup>1</sup>](https://www.researchgate.net/profile/Luiz_Gonzaga_da_Silveira_Jr), [Caroline Lessio Cazarin<sup>3</sup>](https://www.researchgate.net/profile/Caroline_Cazarin)  
 [Vizlab | X-Reality and GeoInformatics Lab<sup>1</sup>](http://vizlab.unisinos.br/), 
