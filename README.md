@@ -1,21 +1,4 @@
 # Kernel_ANN_Super-Resolution
-Super-Resolution method based on Artificial Neural Network and kernel based neighbourhood pixel information, developed to increase spatial resolution of multispectral images.
-
-This method developed at [Vizlab | X-Reality and GeoInformatics Lab](http://vizlab.unisinos.br/), uses a mixed structure of a sequential neural network with the gathering of spatial information in pixel kernels of the input images. It can be used for spectral recovering from RGB images and for spatial upscaling using higher resolution RGB images. In the tests carried in this project we validate the method upscaling near-infrared (NIR) and short-wave infrared (SWIR) images from Landsat to a higher spatial resolution, training the network with both images with the same size, and generating NIR and SWIR bands providing to the trained network the RGB image with higher spatial resolution. Tests with the multispectral indoor images [CAVE](https://www.cs.columbia.edu/CAVE/databases/multispectral/) were also carried for comparison with previous works.
-
-<img src="https://ieeexplore.ieee.org/mediastore_new/IEEE/content/media/9039856/9047668/9047670/1570568701-fig-3-source-large.gif" width="500" alt="Neural network learning process">
-
-## Published Articles
-
-For a more in-depth understanding of the method, please consider the published articles below that employed the Super-resolution methodology developed. To cite each of them please consult the [How to cite](#how-to-cite) section.
-
-**Improving spatial resolution of LANDSAT spectral bands from a single RGB image using artificial neural network]**  
-[Ademir Marques Junior<sup>1</sup>](https://www.researchgate.net/profile/Ademir_Junior), [Pedro Rossa<sup>1</sup>](https://www.researchgate.net/profile/Pedro_Rossa), [Rafael Kenji Horota<sup>1</sup>](https://www.researchgate.net/profile/Rafael_Horota), [Diego Brum<sup>1</sup>](https://www.researchgate.net/profile/Diego_Brum), [Eniuce Menezes de Souza<sup>2</sup>](https://www.researchgate.net/profile/Eniuce_Souza), [Alysson Soares Aires<sup>1</sup>](), [Lucas Kupssinskü<sup>1</sup>](https://www.researchgate.net/profile/Lucas_Kupssinskue), , [Maurício Roberto Veronez](https://www.researchgate.net/profile/Mauricio_Veronez)	
-[Luiz Gonzaga Junior<sup>1</sup>](https://www.researchgate.net/profile/Luiz_Gonzaga_da_Silveira_Jr),[Caroline Lessio Cazarin<sup>3</sup>](https://www.researchgate.net/profile/Caroline_Cazarin)  
-[Vizlab | X-Reality and GeoInformatics Lab<sup>1</sup>](http://vizlab.unisinos.br/), 
-[Department of Statistics - State University of Maringá - PR, Brazil<sup>2</sup>](http://www.uem.br/international),
-[CENPES-Petrobras<sup>3</sup>](https://petrobras.com.br/en/our-activities/technology-innovation/)  
-To appear in: [2019 13th International Conference on Sensing Technology (ICST)](https://ieeexplore.ieee.org/document/9047670)
 
 **Improving spatial resolution of multispectral rock outcrop images using RGB data and artificial neural networks**  
 Authors: [Ademir Marques Junior<sup>1</sup>](https://www.researchgate.net/profile/Ademir_Junior), [Eniuce Menezes de Souza<sup>2</sup>](https://www.researchgate.net/profile/Eniuce_Souza), [Mariane Müller<sup>1</sup>](https://www.researchgate.net/profile/Marianne_Muller), [Diego Brum<sup>1</sup>](https://www.researchgate.net/profile/Diego_Brum), [Daniel Zanotta<sup>1</sup>](https://www.researchgate.net/profile/Daniel_Zanotta), [Rafael Kenji Horota<sup>1</sup>](https://www.researchgate.net/profile/Rafael_Horota), [Lucas Kupssinskü<sup>1</sup>](https://www.researchgate.net/profile/Lucas_Kupssinskue), [Maurício Roberto Veronez<sup>1</sup>](https://www.researchgate.net/profile/Mauricio_Veronez)	
@@ -24,6 +7,15 @@ Authors: [Ademir Marques Junior<sup>1</sup>](https://www.researchgate.net/profil
 [Department of Statistics - State University of Maringá - PR, Brazil<sup>2</sup>](http://www.uem.br/international),
 [CENPES-Petrobras<sup>3</sup>](https://petrobras.com.br/en/our-activities/technology-innovation/)  
 To appear in: Not yet published
+
+Super-Resolution method based on Artificial Neural Network and kernel based neighbourhood pixel information, developed to increase spatial resolution of multispectral images.
+
+This method developed at [Vizlab | X-Reality and GeoInformatics Lab](http://vizlab.unisinos.br/), uses a mixed structure of a sequential neural network with the gathering of spatial information in pixel kernels of the input images. It can be used for spectral recovering from RGB images and for spatial upscaling using higher resolution RGB images. In the tests carried in this project we validate the method upscaling near-infrared (NIR) and short-wave infrared (SWIR) images from Landsat to a higher spatial resolution, training the network with both images with the same size, and generating NIR and SWIR bands providing to the trained network the RGB image with higher spatial resolution. Tests with the multispectral indoor images [CAVE](https://www.cs.columbia.edu/CAVE/databases/multispectral/) were also carried for comparison with previous works.
+
+<img src="https://ieeexplore.ieee.org/mediastore_new/IEEE/content/media/9039856/9047668/9047670/1570568701-fig-3-source-large.gif" width="500" alt="Neural network learning process">
+
+For a more in-depth understanding of the method, please consider the published article below that employed the Super-resolution methodology developed. To cite each of them please consult the [How to cite](#how-to-cite) section.
+
 
 # Table of Contents
 
