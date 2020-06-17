@@ -19,7 +19,6 @@ For a more in-depth understanding of the method, please consider the published a
 
 # Table of Contents
 
-- [Requirements](#requirements)
 - [Installation](#installation)
 - [Usage](#usage)
 - [License](#license)
